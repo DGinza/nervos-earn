@@ -13,4 +13,4 @@ Submitter: Soptq
 https://explorer.nervos.org/aggron/address/ckt1qyq9rdru3405wq2l5u85wq4ekd5hnppw7vfq7chjke```
 
 ## A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2
-~![Deposit](deposit-layer-2.png?raw=true "Deposit")
+![Deposit](deposit-layer-2.png?raw=true "Deposit")
